@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/wireapp/bot-sdk-node#readme",
   "engines": {
-    "node": "6.9.0"
+    "node": ">=6.9.0"
   },
   "dependencies": {
     "base64-arraybuffer": "^0.1.5",
